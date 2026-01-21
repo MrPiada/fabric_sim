@@ -1,1 +1,0 @@
-g++ main.cpp -o fabric -lsfml-graphics -lsfml-window -lsfml-system -std=c++17
